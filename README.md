@@ -1,13 +1,15 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/da012eb6-d10c-4dd6-840c-6f09920caec0" alt="forest banner" style="border-radius: 8px; width: 100%; max-width: 900px; object-fit: cover;" />
+  <img src="https://github.com/user-attachments/assets/de8c42d0-1ea4-4671-8f50-35624226a4d4" alt="forest banner" style="border-radius: 8px; width: 100%; max-width: 900px; object-fit: cover;" />
 </p>
 
-## mihirtk
+<h2 align="left">mhrtk</h2>
+
 🎓 I'm a student at **UC Berkeley**, studying **Electrical Engineering and Computer Science**.
 
 💡 I’m interested in **embedded systems**, **machine learning**, and **distributed systems**.
 
-🛠️ I mainly use **Python** and **C**, and I'm currently learning **Rust**.
+🛠️ Mostly working with **Python** and **C**, and I'm currently learning **Rust**.
 
 📫 Always happy to connect — feel free to reach out!
 
+[<img src="https://img.shields.io/badge/%20theme-catppuccin-cba6f7?style=square&logoColor=white&logo=rainmeter" alt="Catppuccin Mocha" height="20"/>](https://catppuccin.com) 
