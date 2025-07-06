@@ -7,3 +7,5 @@
 🛠️ I mainly use Python and C, and I'm currently learning Rust.
 
 📫 Always happy to connect — feel free to reach out!
+
+🐈 Catppuccin Fan
