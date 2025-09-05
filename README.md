@@ -6,7 +6,7 @@
 
 🎓 I'm a student at **UC Berkeley**, studying **Electrical Engineering and Computer Science**.
 
-💡 I’m interested in **embedded systems**, **machine learning**, and **distributed systems**.
+💡 I’m interested in **machine learning**, **distributed systems**, and **embedded systems**.
 
 🛠️ Mostly working with **Python** and **C**, and I'm currently learning **Rust**.
 
